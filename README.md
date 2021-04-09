@@ -1,5 +1,7 @@
 # WeakRefs TC39 proposal
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ## Status
 
 * WeakRef and FinalizationRegistry are now Stage 4, since the July 2020 TC39 meeting
